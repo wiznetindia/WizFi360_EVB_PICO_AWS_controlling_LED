@@ -1,0 +1,1 @@
+add_subdirectory(aws_mqtt_demo)

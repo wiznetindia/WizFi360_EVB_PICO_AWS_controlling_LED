@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+D:/VS code wizfi360/WizFi360-EVB-Pico-AWS-C/build/examples/aws_mqtt_demo/CMakeFiles/ELF2UF2Build
+D:/VS code wizfi360/WizFi360-EVB-Pico-AWS-C/build/examples/aws_mqtt_demo/CMakeFiles/ELF2UF2Build.rule
+D:/VS code wizfi360/WizFi360-EVB-Pico-AWS-C/build/examples/aws_mqtt_demo/CMakeFiles/ELF2UF2Build-complete.rule
+D:/VS code wizfi360/WizFi360-EVB-Pico-AWS-C/build/examples/aws_mqtt_demo/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
+D:/VS code wizfi360/WizFi360-EVB-Pico-AWS-C/build/examples/aws_mqtt_demo/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+D:/VS code wizfi360/WizFi360-EVB-Pico-AWS-C/build/examples/aws_mqtt_demo/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+D:/VS code wizfi360/WizFi360-EVB-Pico-AWS-C/build/examples/aws_mqtt_demo/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+D:/VS code wizfi360/WizFi360-EVB-Pico-AWS-C/build/examples/aws_mqtt_demo/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+D:/VS code wizfi360/WizFi360-EVB-Pico-AWS-C/build/examples/aws_mqtt_demo/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+D:/VS code wizfi360/WizFi360-EVB-Pico-AWS-C/build/examples/aws_mqtt_demo/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule
